@@ -11,3 +11,4 @@ This project implements robot localization and mapping using ROS and simulation 
 4.ROS Support – Compatible with ROS1/ROS2 for easy integration with Gazebo, RViz, and navigation stacks.
 
 5.Custom Robot Model – Works with differential drive mobile robots equipped with LIDAR and depth cameras.
+![robot](https://github.com/user-attachments/assets/7756dd2a-79b1-4ea2-8e02-8664f074fc42)
